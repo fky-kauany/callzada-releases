@@ -1,8 +1,8 @@
-# Política de privacidade do Sync Together
+# Política de privacidade do CZ: Music RP
 
 _Última atualização: 23 de novembro de 2026_
 
-O Sync Together é a extensão de navegador do Callzada que faz o "Ouvir junto" funcionar no YouTube e no YouTube Music: ela mostra aos seus amigos do Callzada a música que você está ouvindo e, quando você escolhe ouvir junto com alguém, toca a mesma música no seu navegador.
+O CZ: Music RP é a extensão de navegador do Callzada que mostra aos seus amigos do Callzada a música que você está ouvindo no YouTube e no YouTube Music (rich presence), e deixa o Callzada controlar o player dessas abas quando você pede pelo aplicativo.
 
 ## O que a extensão lê
 
@@ -21,13 +21,13 @@ A extensão envia esses dados **somente para o aplicativo Callzada aberto no mes
 O Callzada usa esses dados para:
 
 - mostrar aos seus amigos a música que você está ouvindo (título, artista, capa e posição), **só se** o compartilhamento de música estiver ligado nas configurações do Callzada (Configurações → Privacidade de atividade). Vídeos que não são música nunca são compartilhados;
-- tocar a música de um amigo no seu navegador quando você clica em "Ouvir junto".
+- controlar a reprodução no seu navegador (tocar, pausar, pular), quando você pede pelo Callzada.
 
 O que é compartilhado com os amigos vai diretamente entre os aparelhos, cifrado de ponta a ponta, como as demais mensagens do Callzada.
 
 ## O que a extensão faz no YouTube
 
-Quando você usa o "Ouvir junto", o Callzada pede à extensão para tocar um vídeo, pular para uma posição, pausar, continuar ou mudar a velocidade, na aba do YouTube que ela escolher. Na primeira vez, se não houver uma aba do YouTube aberta, a extensão abre uma.
+Quando você pede pelo Callzada, ele manda a extensão tocar um vídeo, pular para uma posição, pausar, continuar ou mudar a velocidade, numa aba do YouTube. Se não houver uma aba do YouTube aberta, a extensão abre uma.
 
 ## O que a extensão não faz
 
